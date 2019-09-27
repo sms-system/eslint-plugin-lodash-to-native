@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-lodash-to-native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Serge Smirnov <sms-system@shri2018.yaconnect.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "jest": "^24.9.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  }
+}
